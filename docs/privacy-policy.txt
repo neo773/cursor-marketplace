@@ -1,0 +1,24 @@
+# Privacy Policy for Cursor Marketplace Installer
+
+## Data Collection
+This extension does not collect, store, or transmit any personal information or browsing data.
+
+## How the Extension Works
+The Cursor Marketplace Installer extension only activates on the Visual Studio Code Marketplace website (marketplace.visualstudio.com/items*). It adds a button that allows users to install VS Code extensions in the Cursor editor.
+
+The extension:
+- Does not track your browsing activity
+- Does not use cookies
+- Does not collect any analytics
+- Does not communicate with any external servers
+- Does not store any data locally
+
+## Permissions
+The extension requires the following permissions:
+- "activeTab": To modify the content of VS Code Marketplace pages
+- Access to "marketplace.visualstudio.com/items*": To detect when you're viewing a VS Code extension page
+
+## Contact
+If you have any questions about this privacy policy, please contact [your email address].
+
+Last updated: February 26, 2025
