@@ -1,0 +1,10 @@
+/* Style for the Cursor install button */
+.cursor-install-button {
+  background-color: #0078D7 !important; /* Blue color for the Cursor button */
+  color: white !important;
+  margin-left: 10px !important; /* Add some spacing between the buttons */
+}
+
+.cursor-install-button:hover {
+  background-color: #106EBE !important; /* Slightly darker blue on hover */
+}
