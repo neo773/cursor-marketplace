@@ -15,6 +15,5 @@
       "js": ["content.js"],
       "css": ["styles.css"]
     }
-  ],
-  "permissions": ["activeTab"]
+  ]
 }
